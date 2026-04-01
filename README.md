@@ -1,6 +1,6 @@
 # 🚀 Matrix Club Website
 
-[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-28a745?style=for-the-badge&logo=google-chrome&logoColor=white)](https://matrix-club.vercel.app)
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-28a745?style=for-the-badge&logo=google-chrome&logoColor=white)](https://matrix-club-io88.vercel.app/)
 
 A fully responsive and modern website built for the **Matrix Club** to showcase events, activities, the team, and everything about the club. Designed with clean UI, smooth navigation, and a lightweight frontend structure for fast performance.
 
